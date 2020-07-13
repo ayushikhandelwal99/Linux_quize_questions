@@ -110,7 +110,7 @@ Contains questions and their solutions with required explanation
   - MINIX:
   - BSD:
   
-#### Q32 can a normal user execute commands present in /sbin directory?
+#### Q32 can a normal user execute commands present in `/sbin` directory?
   - No in 99% cases
   
 #### Q33 Which tool is similar to "find" except that it uses an index to search?
