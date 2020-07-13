@@ -38,3 +38,89 @@ Contains questions and their solutions with required explanation
 
 #### Q9 Jack user can make a directory outside Jack user in:
   - `/var/tmp/`  and  `/tmp/`
+
+#### Q10 Oracle linux fall in which distribution category
+  - RPM
+  
+#### Q11 Name of installer of OS in any linux distribution
+  - Anaconda
+  
+#### Q12 RHEL stand for
+  - Redhat Enterprise Linux
+  
+#### Q13 Original founder of linux kernal
+  - Linus Torvalds
+  
+#### Q14 Linux kernal designed in which language
+  - C
+  
+#### Q15  Kernal name of Man OS
+  - Darwin
+  
+#### Q16 Unix family OS written in which language
+  - C & assembly
+  
+#### Q17 Type of linux kernal is
+  - Monolithic
+  
+#### Q18 user files still left on the system even if you delete the user?
+  - True
+  
+#### Q19  Desktop environments for fedora are
+  -
+  
+#### Q20 Linux was developed as
+  - clone of UNIX
+  
+#### Q21 Name the software that lets you run multiple OS on one server
+  - Hypervisor
+  
+#### Q22 Chrome OS is based on which linux distribution?
+  - BOSS (Bharat Operating System Solutions)
+  
+#### Q23 Does anaconda installer supports File Transfer Protocol?
+  - True
+  
+#### Q24 What command gives one-line infornmation about a particular command?
+  - `whatis`
+  -apropose command:
+  
+#### Q25 One mode of operation in which a program can run
+  - user mode
+  
+#### Q26 Which package manager cannot install package dependencies on its own?
+  - rpm
+  
+#### Q27 simplest way to deny someone to access their account is?
+  - changing shell to `/sbin/nologin`
+  
+#### Q28  What makes up a linux kernal?
+  - Base Kernal and Kernal Modules
+
+#### Q29  To repeat the last command in bash shell history
+  - `!!`
+  
+#### Q30 To start another shell under the current shell you use the command:
+  - bash,sh,csh
+  
+#### Q31 With which userspace is linux typically paired?
+  - GNU
+  - GNU:
+  - UNIX:
+  - MINIX:
+  - BSD:
+  
+#### Q32 can a normal user execute commands present in /sbin directory?
+  - No in 99% cases
+  
+#### Q33 Which tool is similar to "find" except that it uses an index to search?
+  - `locate`
+  
+#### Q34  Typind "cd" command at shell prompt will take you to which directory?
+  - $HOME
+  
+#### Q35 Name of directory where every user can read and write
+  - `/tmp`
+  
+#### Q36 How to add user in linux
+  - `adduser <username>`  or `useradd <username>`
