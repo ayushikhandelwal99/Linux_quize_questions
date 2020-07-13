@@ -85,7 +85,7 @@ Contains questions and their solutions with required explanation
 #### Q24 What command gives one-line infornmation about a particular command?
   - `whatis`
   
-  - apropose command:  apropos is a command to search the man page files in Unix and Unix-like operating systems. It is particularly useful when searching for commands without knowing their exact names.
+- apropose command:  apropos is a command to search the man page files in Unix and Unix-like operating systems. It is particularly useful when searching for commands without knowing their exact names.
     - {Syntax: ` apropos [OPTION..] KEYWORD...` }
   
 #### Q25 One mode of operation in which a program can run
@@ -109,10 +109,10 @@ Contains questions and their solutions with required explanation
 #### Q31 With which userspace is linux typically paired?
   - GNU
   
-  - GNU: GNU's Not UNIX
-  - UNIX: Uniplexed Information and Computing Service
-  - MINIX: `mini-Unix` Unix-like operating system based on a microkernel architecture.
-  - BSD: Berkeley Software Distribution: operating system based on Research Unix
+- GNU: GNU's Not UNIX
+- UNIX: Uniplexed Information and Computing Service
+- MINIX: `mini-Unix` Unix-like operating system based on a microkernel architecture.
+- BSD: Berkeley Software Distribution: operating system based on Research Unix
   
 #### Q32 can a normal user execute commands present in `/sbin` directory?
   - No in 99% cases
