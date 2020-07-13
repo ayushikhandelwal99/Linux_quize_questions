@@ -15,6 +15,7 @@ Contains questions and their solutions with required explanation
       
 #### Q3 How to run a shell script in a debug mode
   - `bash --debug a.sh`
+  
   - debug mode: debug mode is a user interface implemented in a computer program that allows the user to view and/or manipulate the program's internal state for the purpose of debugging.
 
 #### Q4 How to run multiple command in shell
@@ -83,6 +84,7 @@ Contains questions and their solutions with required explanation
   
 #### Q24 What command gives one-line infornmation about a particular command?
   - `whatis`
+  
   - apropose command:  apropos is a command to search the man page files in Unix and Unix-like operating systems. It is particularly useful when searching for commands without knowing their exact names.
     - {Syntax: ` apropos [OPTION..] KEYWORD...` }
   
@@ -106,6 +108,7 @@ Contains questions and their solutions with required explanation
   
 #### Q31 With which userspace is linux typically paired?
   - GNU
+  
   - GNU: GNU's Not UNIX
   - UNIX: Uniplexed Information and Computing Service
   - MINIX: `mini-Unix` Unix-like operating system based on a microkernel architecture.
