@@ -126,5 +126,60 @@ Contains questions and their solutions with required explanation
 #### Q35 Name of directory where every user can read and write
   - `/tmp`
   
-#### Q36 How to add user in linux
+#### Q36 How to add user in linux?
   - `adduser <username>`  or `useradd <username>`
+  
+#### Q37 Way to create file for sure in bash shell
+  - `> filename`
+  
+#### Q38 How to open a UDP port using nc?
+  - `nc -lu port_number`
+  
+#### Q39 `date | tr 'a-z' 'A-Z' | wc -l` output will be
+  - 1
+  
+#### Q40 How we can do reverse match in grep?
+  - `grep -v`
+  
+#### Q41  From a non root usr `cat /etc/passwd >/etc/passwd`
+  - no
+  
+#### Q42 How to run command using bash?
+  - `/bin/bash -c date`
+  
+#### Q43 What is the use of `tr` command?
+  - translation
+  
+#### Q44 `ls -ld /etc/` will give
+  - only etc directory will be printed
+  
+#### Q45 File name where all supported shells are written
+  - `/etc/shells`
+  
+#### Q46 How to check current shell?
+  - `echo $SHELL`
+  
+#### Q47 Bash stand for
+  - Bourne again shell
+  
+#### Q48 Use of ` pv`  command
+  - to monitor progress bar for data sent via pipe
+  
+#### Q49 Which command can be used to open folder graphically
+  - `nautilus`
+  - nautilus: Nautilus Terminal is a Nautilus file browser embedded terminal, which follows your movement and automatically cd to your current directory. Nautilus Terminal makes it possible to work in command line while navigating in Real GUI.
+  
+#### Q50 From a non root user: ```` cp /etc/shell  /root/a.txt` 
+  - not possible
+  
+#### Q51 From a non root user: ` mkdir /opt/hello` 
+  - impossible
+  
+#### Q52 Elementory OS is category of
+  - DEB
+  
+#### Q53 Command to show only time
+  - `date +%T`
+  
+#### Q56 `cal -j 2 2020`  write the first number of day
+  - 32
